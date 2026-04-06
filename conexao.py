@@ -5,5 +5,5 @@ def obter_conexao():
         host="localhost",
         user="root",
         password="root", 
-        database="hotel",
+        database="hotel_db",
     )
